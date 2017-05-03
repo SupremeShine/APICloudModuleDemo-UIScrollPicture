@@ -1,0 +1,2 @@
+# APICloudModuleDemo-UIScrollPicture
+APICloud官方轮播图模块UIScrollPicture的演示DEMO
